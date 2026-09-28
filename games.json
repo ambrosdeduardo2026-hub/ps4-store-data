@@ -1,1 +1,25 @@
-
+{
+  "store_version": "1.0.0",
+  "games": [
+    {
+      "id": 0,
+      "title": "NBA 2K25 Mod Edition",
+      "cusa": "CUSA12345",
+      "category": "sports",
+      "genre": "Sports",
+      "size": "45 GB",
+      "cover_url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=500&auto=format&fit=crop",
+      "pkg_url": "https://tuservidor.com/pkgs/nba2k25.pkg"
+    },
+    {
+      "id": 1,
+      "title": "Cyber Legends 2077",
+      "cusa": "CUSA67890",
+      "category": "rpg",
+      "genre": "RPG",
+      "size": "58 GB",
+      "cover_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=500&auto=format&fit=crop",
+      "pkg_url": "https://tuservidor.com/pkgs/cyber.pkg"
+    }
+  ]
+}
